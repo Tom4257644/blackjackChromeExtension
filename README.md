@@ -18,9 +18,9 @@ This is a project I started to teach myself DOM with JavaScript as it was a skil
 <h2>Gameplay</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/ZZBFjTn.png" height="40%" width="40%" alt="Gameplay"/>
 
+<img src="https://i.imgur.com/ZZBFjTn.png" height="40%" width="40%" alt="Gameplay"/>
+<img src="https://i.imgur.com/GXWIurA.png" height="40%" width="40%" alt="Gameplay"/>
 <img src="https://i.imgur.com/fcmuDu2.png" height="40%" width="40%" alt="Gameplay"/>
 <br />
 <br />
