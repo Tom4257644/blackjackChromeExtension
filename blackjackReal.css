@@ -1,0 +1,60 @@
+body {
+    background-color: green;
+    width: 1000px;
+    height: 600px;
+}
+
+.cardStyle {
+    color: hsl(0, 100%, 36%);
+    background-color: hsl(0, 8%, 85%);
+    border: 2px solid black;
+    padding: 11px;
+    position: relative; 
+    top: 12px; 
+}
+
+
+.cogImg, .imgBackground {
+    height: 25px;
+    width: 25px;
+}
+
+.cardsBackground {
+    background-color: rgb(5, 84, 5);
+    height: 42px;
+}
+
+.imgBackground {
+    background-color: green;
+    border: none;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+}
+
+.betButton {
+    background-color: green;
+    border: none;
+}
+
+.pageButtons {
+    border-width: 10px;
+    background-color: rgb(208, 183, 183);
+    border-color: black;
+    padding: 3px;
+    position: relative; 
+    bottom: 10px; 
+    right: 2px;
+    margin-right: 5px; 
+}
+
+
+
+
+.totalMoneyPadding {
+    margin-top: 10px;
+    padding: 10px;
+    
+}
+
+

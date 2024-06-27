@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blackjack</title>
+    <link href="blackjackReal.css" rel="stylesheet" type="text/css" />
+
+    <style>
+        body {
+            width: 300px;
+            height: 200px;
+        }
+    </style>
+
+
+
+
+</head>
+<body>
+
+
+    <div class="background" id="divForBlackjackGame">
+        <div class="row" id="rowForGameHeader">
+            <h1>
+                BlackJack by Tom 
+                <!-- <a href="settingsBlackjack.html"><img class="cogImg" src="gearCog.png"></a> -->
+            </h1>
+        </div>
+
+
+
+<!-- dealer section -->
+        <div class="row" id="dealerRow">
+            <div class="row" id="dealerInfo">
+                <p class="h2" id="dealerInfoContent">Dealers Cards ----- Dealer Total: 0</p>
+                <p id="dealerResult"></p>
+            </div>
+            <div id="rowForDealerCards" class="cardsBackground row">
+                <!-- dealer cards here -->
+
+            </div>
+        </div>
+
+
+<!-- player section  -->
+        <div class="row" id="playerRow">
+            <div class="row" id="playerInfo">
+                <p class="h2" id="playerInfoContent">Players Cards ----- Player Total: 0</p>
+                <p id="playerResult"></p>
+            </div>
+            <div id="rowForPlayerCards" class="cardsBackground row">
+                <!-- player cards here -->
+
+            </div>
+        </div>
+
+
+        <!-- button section  -->
+
+        <br>
+        <br>
+        <br>
+
+
+        <div class="row" id="buttonRow">
+            
+
+            <!-- buttons will change here using dyunamic placment of html using js -->
+
+            <!-- standard are below -->
+            <span id='dealButton' class="pageButtons">Deal</span>
+        
+
+        </div>
+        <div class="row" id="bettingButtons">
+            <div>
+                 <br>
+            </div>
+
+            <div id="totalMoney" class="row">
+                <span class="totalMoneyPadding"> Total Money: 1000 </span>
+
+
+            </div>
+
+
+
+
+            <div id="totalBet" class="totalBetWording row">
+         
+            </div>
+
+            <div id="buttonsForBets" class="row">
+
+                <span id='betButton1' class="betButton"><img class="imgBackground" src="Screenshot_2023-12-22_at_8.01.05_AM-removebg-preview.png"></span>
+                <span id='betButton10' class="betButton"><img class="imgBackground" src="Screenshot_2023-12-22_at_8.01.05_AM-removebg-preview copy.png"></span>
+                <span id='betButton50' class="betButton"><img class="imgBackground" src="Screenshot_2023-12-22_at_8.01.05_AM-removebg-preview copy 2.png"></span>
+                <span id='betButton100' class="betButton"><img class="imgBackground" src="Screenshot_2023-12-22_at_8.01.05_AM-removebg-preview copy 3.png"></span>
+                <span id="cancelBetButton" class="pageButtons">cancel bet</span>
+            </div>
+
+        </div>
+
+
+
+
+
+    </div>
+
+
+<script src="blackjackReal.js"></script>
+
+    
+</body>
+</html>
