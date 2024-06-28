@@ -25,13 +25,5 @@ This is a project I started to teach myself DOM with JavaScript as it was a skil
 <br />
 <br />
 
+[Back to projects](https://github.com/Tom4257644/Tom4257644.github.io/blob/main/README.md)
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
