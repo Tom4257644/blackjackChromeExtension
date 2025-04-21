@@ -5,7 +5,7 @@
 <h2>Description</h2>
 This is a project I started to teach myself DOM with JavaScript as it was a skill I was looking to implement in some of my other web projects. The project features a fully functional blackjack game with all game logic and a betting system included. This project has been approved by the Chrome Store and is currently listed here, https://chromewebstore.google.com/detail/blackjack-by-tom/pmhlnhkpkibmmdnkknhdjhaeeolhhbfe.
 <br />
-Currently, it has 400 active users.
+Currently, it has 800 active users and is under review for a styling facelift.
 <br />
 
 
@@ -20,9 +20,10 @@ Currently, it has 400 active users.
 
 <p align="center">
 
-<img src="https://i.imgur.com/ZZBFjTn.png" height="40%" width="40%" alt="Gameplay"/>
-<img src="https://i.imgur.com/GXWIurA.png" height="40%" width="40%" alt="Gameplay"/>
-<img src="https://i.imgur.com/fcmuDu2.png" height="40%" width="40%" alt="Gameplay"/>
+<img src="https://imgur.com/QMZCNdN.png" height="40%" width="40%" alt="Gameplay"/>
+<img src="https://imgur.com/LhXbx5X.png" height="40%" width="40%" alt="Gameplay"/>
+<img src="https://imgur.com/gPofWHL.png" height="40%" width="40%" alt="Gameplay"/>
+
 <br />
 <br />
 
