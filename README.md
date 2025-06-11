@@ -5,7 +5,7 @@
 <h2>Description</h2>
 This is a project I started to teach myself DOM with JavaScript as it was a skill I was looking to implement in some of my other web projects. The project features a fully functional blackjack game with all game logic and a betting system included. This project has been approved by the Chrome Store and is currently listed here, https://chromewebstore.google.com/detail/blackjack-by-tom/pmhlnhkpkibmmdnkknhdjhaeeolhhbfe.
 <br />
-Currently, it has 800 active users and is under review for a styling facelift.
+Currently, it has ~1500 active users. Also see my poker game here: https://chromewebstore.google.com/detail/poker-by-tom/akikcgicmmcccghcmfchijfbfjgkbidn?authuser=0&hl=en
 <br />
 
 
